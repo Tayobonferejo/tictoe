@@ -1,5 +1,5 @@
 # tictoe
- A game application that is of two players one is X and other is O
+ A mind game application that is of two players one is X and other is O
 
 # 🎮 Tic-Tac-Toe Game
 
