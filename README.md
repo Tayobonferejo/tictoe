@@ -27,7 +27,7 @@ A modern, responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play
 
 ## 🚀 How to Play
 
-1. **Open the game** – Double-click the `tictactoe.html` file in your browser
+1. **first Open the game** – Double-click the `tictactoe.html` file in your browser
 2. **Choose game mode** – Click "2 Players" or "vs Computer"
 3. **Make your move** – Click any empty cell to place your X or O
 4. **Win the game** – Get 3 in a row (horizontally, vertically, or diagonally)
